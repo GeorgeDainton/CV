@@ -1,77 +1,78 @@
-## Your Name
+## George Dainton
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+An enthusuastic, pragmatic and creative software engineer with a keen eye for detail. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, Javascript and Python in 12 weeks, as well as mastering tools such as the command line and Git. I am eager to jump straight into employment and work on exciting projects that will help me hone my skills and grow as a professional.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Trybe           | A custom goal tracker and support network mobile application  | React Native (Frontend), Django REST Framework (Backend), |
+| MakeBook | A Facebook clone with an incredible mascot  | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress             |
+| Chuckle Hotel | An AirBnB clone | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance** (June 2021 - July 2022)  
+_Set Design Assistant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Sourcing props for fashion shoots and editorials and assembling sets on location and in various photography studios around London.
+- Requires strict attention to detail - backdrops and flooring must be constructed to the highest standard and props must be sourced with care. so as not to negatively affect the final product.
+- Liasing with multiple organs of fashion production - photogrpahers, wardrobe, producers, directors etc. in order to play my part in the smooth running of projects running on a strict time schedule.
+- Flexiblilty required at all times. The needs of a shoot can turn on a dime and time constraints often require quick thinking to overcome problems as they arise.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**British Red Cross** (December 2020 - June 2021)  
+_Service Support Worker_
 
-- Any experience relevent to software development
+- As part of a small team I made up part of the British Red Cross' winter COVID initiative, responsible for assisting hospital discharge of some of London's most vulnerable and isolated.
+- I undertook hospital and home visits to ensure that a service user's property was fit for them to be discharged into. This meant ensuring proper heating, electricity and cleanliness. If my team and I deemed the property to be hazardous, we would defer to various council services and charities to help us remedy any issues.
+- Required a high degree of resilience. Working conditions could be difficult and upsetting, but our emphasis on placing our service user's needs first meant I learnt to steel myself against traumatic situations and focus on delivering a vital service to those that needed it.
+
+**DHL** (June 2020 - December 2020)
+_Delivery Driver_
+
+- During lockdown I worked delivering parcels across the south west of England
+- This role was highly autonomous, and involved long working hours. I had to solve any issues that arose myself, and stay focused as I covered long distances often into the evening.
+
+**London Review of Books** (October 2017 - January 2020)
+_Facilities Co-ordinator_
+
+- In this position I worked to ensure that all departments of the company were running smoothly and were provided for. The job required a high degree of adaptability and versatility as I was expected to respond to any issues that the magazine’s employees required assistance with. 
+- My responsibilities included a wide range of administrative tasks, liaising with outsourced IT technicians to troubleshoot, upgrade and maintain the company’s systems and hardware, managing building maintenance issues and overseeing supply levels, in the main office and the associated booksellers The London Review Bookshop. 
+- I helped to update and maintain a vast asset database and undertake general data entry. The position gave me a good working knowledge of all types of modern office technology such as computers, printers, phones and AV equipment. 
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Outstanding communicator, in person, via telephone and email
 
--STAR
--What was the situation/task? (ST)
+- At The London Review of Books, my team and I were at the center of a substantial 3 floor refurbishment
+- This involved every department in the company, and I was required to liase with all of them simoultaeously to ensure the delivery of the refurbishement as smoothly as possible
+- Naviagated complex interdepartmental and interpersonal conflicts diplomatically and helped parties to reach compromises reagrding the outcome of the project
 
--How was the skill used?
+#### Effective planner with excellent time management
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I helped deliver the best service in a timely fashion to our clients whilst working at the British Red Cross.
+- I had to manage my time very effectively. This meant planning our response thoroughly but also keeping as flexible as possible to account for changes of circumstances in what could often be highly volatile situations.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (April 2022 to July 2022)
 
-#### Your University / College (start_date to end_date)
+An intensive 12 week full time course with 4 week precourse, where I learnt:
+- Object-Oriented Programming (in Ruby, JavaScript and Python).
+- Test Driven Development - the foundation of our process at Makers was TDD, whcih helped me develop my skills in a highly methodical way accounting for bugs and errors to ensure a stable codebase with minimal technical debt.
+- SOLID principles, DRY - high quality code was taught and encouraged at the bootcamp, aided by focusing on keeping our code DRY and as adherent to SOLID as possible
+- MVC/MTV design - we structured our full stack group projects using MVC/MTV, which made for powerful and effective web applications and were very useful tools to learn about the interelation of various aspects of software architecture.
+- Agile principles and and sprint planning, team charters, stand-ups, retros, pair programming
+- Web frameworks (Sinatra, Express, Django)
+- Git/Github version control and collaborative development
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Leeds (September 2013 -  to July 2016)
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BA History
+- Upper Second Class Honours (2:1)
+- Final dissertation was a comparative analysis of the Italo-German intervention in the Spanish Civil War
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Ouside of coding, I'm really into films, history and music, and I enjoy playing football, going climbing and running and a well curated pub quiz.
