@@ -1,14 +1,14 @@
 ## George Dainton
 
-An enthusuastic, pragmatic and creative software engineer with a keen eye for detail. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, Javascript and Python in 12 weeks, as well as mastering tools such as the command line and Git. I am eager to jump straight into employment and work on exciting projects that will help me hone my skills and grow as a professional.
+An enthusuastic, pragmatic and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, Javascript and Python in 12 weeks, as well as mastering tools such as the command line and Git version control. I am eager to jump straight into employment and work on exciting projects that will help me hone my skills, grow as a professional and bring my own unique perspective to the organisation's culture. I am currently teaching myself the React web framework.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Trybe           | A custom goal tracker and support network mobile application  | React Native (Frontend), Django REST Framework (Backend), |
-| MakeBook | A Facebook clone with an incredible mascot  | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress             |
-| Chuckle Hotel | An AirBnB clone | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL
+| Trybe           | A custom goal tracker and support network mobile application  | React Native (Frontend), Django REST Framework (Backend), Heroku, Git |
+| MakeBook | Constable Mongoose's Facebook Clone | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Heroku, Git             |
+| Chuckle Hotel | An AirBnB clone | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Git
 
 ## Work Experience
 
@@ -46,13 +46,13 @@ _Facilities Co-ordinator_
 #### Outstanding communicator, in person, via telephone and email
 
 - At The London Review of Books, my team and I were at the center of a substantial 3 floor refurbishment
-- This involved every department in the company, and I was required to liase with all of them simoultaeously to ensure the delivery of the refurbishement as smoothly as possible
-- Naviagated complex interdepartmental and interpersonal conflicts diplomatically and helped parties to reach compromises reagrding the outcome of the project
+- This involved every department in the company, and I was required to liase with all of them simultaneously to ensure the delivery of the refurbishement as smoothly as possible
+- Navigated complex interdepartmental and interpersonal conflicts diplomatically and helped parties to reach compromises reagrding the outcome of the project.
 
 #### Effective planner with excellent time management
 
 - I helped deliver the best service in a timely fashion to our clients whilst working at the British Red Cross.
-- I had to manage my time very effectively. This meant planning our response thoroughly but also keeping as flexible as possible to account for changes of circumstances in what could often be highly volatile situations.
+- I had to manage my time very effectively, and often cover lots of ground for multiple service users during the day. This meant planning our response thoroughly but also keeping as flexible as possible to account for changes of circumstances in what could often be highly volatile situations.
 
 ## Education
 
