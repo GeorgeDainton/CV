@@ -1,6 +1,6 @@
 ## George Dainton
 
-An enthusuastic, pragmatic and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, Javascript and Python in 12 weeks, as well as mastering tools such as the command line and Git version control. I am eager to jump straight into employment and work on exciting projects that will help me hone my skills, grow as a professional and bring my own unique perspective to the organisation's culture. I am currently teaching myself the React web framework.
+An enthusiastic, pragmatic and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, JavaScript and Python in 12 weeks, as well as mastering tools such as the command line and Git version control. I am eager to jump straight into employment and work on exciting projects that will help me hone my skills, grow as a professional and bring my own unique perspective to the organisation's culture. I am currently teaching myself the React web framework.
 
 ## Projects
 
@@ -8,7 +8,7 @@ An enthusuastic, pragmatic and creative software engineer with a keen eye for de
 | ---------------------------- | ----------------- | ----------------- |
 | Trybe           | A custom goal tracker and support network mobile application  | React Native (Frontend), Django REST Framework (Backend), Heroku, Git |
 | MakeBook | Constable Mongoose's Facebook Clone | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Heroku, Git             |
-| Chuckle Hotel | An AirBnB clone | Ruby, Rspec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Git
+| Chuckle Hotel | An Airbnb clone | Ruby, RSpec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Git
 
 ## Work Experience
 
@@ -17,8 +17,8 @@ _Set Design Assistant_
 
 - Sourcing props for fashion shoots and editorials and assembling sets on location and in various photography studios around London.
 - Requires strict attention to detail - backdrops and flooring must be constructed to the highest standard and props must be sourced with care. so as not to negatively affect the final product.
-- Liasing with multiple organs of fashion production - photogrpahers, wardrobe, producers, directors etc. in order to play my part in the smooth running of projects running on a strict time schedule.
-- Flexiblilty required at all times. The needs of a shoot can turn on a dime and time constraints often require quick thinking to overcome problems as they arise.
+- Liaising with multiple organs of fashion production - photographers, wardrobe, producers, directors etc. in order to play my part in the smooth running of projects running on a strict time schedule.
+- Flexibility required at all times. The needs of a shoot can turn on a dime and time constraints often require quick thinking to overcome problems as they arise.
 
 **British Red Cross** (December 2020 - June 2021)  
 _Service Support Worker_
@@ -45,16 +45,16 @@ _Facilities Co-ordinator_
 
 #### Clear communicator
 
-- At The London Review of Books, my team and I were at the center of a substantial 3 floor refurbishment.
-- This involved every department in the company, and I was required to liase with all of them simultaneously to ensure the delivery of the refurbishement as smoothly as possible.
-- Enitre offices had to be consolidated, along with all their IT and telephone equipment, onto one floor which presented difficult logistical issues.
+- At The London Review of Books, my team and I were at the centre of a substantial 3 floor refurbishment.
+- This involved every department in the company, and I was required to liaise with all of them simultaneously to ensure the delivery of the refurbishment as smoothly as possible.
+- Entire offices had to be consolidated, along with all their IT and telephone equipment, onto one floor which presented difficult logistical issues.
 - Navigated complex interdepartmental and interpersonal conflicts diplomatically and helped parties to reach compromises. 
 
 #### Effective planner with excellent time management
 
 - I helped deliver the best service in a timely fashion to our clients whilst working at the British Red Cross.
 - I had to manage my time very effectively, and often cover lots of ground for multiple service users during the day. This meant planning our response thoroughly but also keeping as flexible as possible to account for changes of circumstances in what could often be highly volatile situations.
-- I used this skill repeatedly whilst at Makers, as thorough planning is essential to the success of any project, however, working under time constraints and accounting for things such as illness and unforseen technical issues meant that on group projects plans had to be changed on the fly. This was made much easier by using an agile process, adapting our strategy as and when required.
+- I used this skill repeatedly whilst at Makers, as thorough planning is essential to the success of any project, however, working under time constraints and accounting for things such as illness and unforeseen technical issues meant that on group projects plans had to be changed on the fly. This was made much easier by using an agile process, adapting our strategy as and when required.
 
 #### 
 
@@ -62,14 +62,14 @@ _Facilities Co-ordinator_
 
 #### Makers Academy (April 2022 to July 2022)
 
-An intensive 12 week full time course with 4 week precourse, where I learnt:
+An intensive 12 week full time course with 4 week pre-course, where I learnt:
 - Object-Oriented Programming (in Ruby, JavaScript and Python).
 - Test Driven Development - the foundation of our process at Makers was TDD, which helped me develop my skills in a highly methodical way accounting for bugs and errors to ensure a stable codebase with minimal technical debt.
 - SOLID principles, DRY - high quality code was taught and encouraged at the bootcamp, aided by focusing on keeping our code DRY and as adherent to SOLID principles as possible
-- MVC/MTV design - we structured our full stack group projects using MVC/MTV, which made for powerful and effective web applications and were very useful tools to learn about the interelation of various aspects of software architecture.
-- Agile principles and and sprint planning, team charters, stand-ups, retros, pair programming
+- MVC/MTV design - we structured our full stack group projects using MVC/MTV, which made for powerful and effective web applications and were very useful tools to learn about the interrelation of various aspects of software architecture.
+- Agile principles and sprint planning, team charters, stand-ups, retros, pair programming
 - Web frameworks (Sinatra, Express, Django)
-- Git/Github version control and collaborative development
+- Git/GitHub version control and collaborative development
 
 #### University of Leeds (September 2013 -  to July 2016)
 
@@ -79,4 +79,4 @@ An intensive 12 week full time course with 4 week precourse, where I learnt:
 
 ## Hobbies
 
-Ouside of coding, I'm really into films, history and music, and I enjoy playing football, going climbing and running and a well curated pub quiz.
+Outside of coding, I'm really into films, history and music, and I enjoy playing football, going climbing and running and a well curated pub quiz.
