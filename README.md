@@ -1,6 +1,7 @@
 ## George Dainton
 
-An enthusiastic, pragmatic and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, JavaScript and Python in 12 weeks, as well as mastering tools such as the command line and Git version control. I am eager to jump straight into employment and work on exciting projects that will help me hone my skills, grow as a professional and bring my own unique perspective to the organisation's culture. I am currently teaching myself the React web framework.
+An enthusiastic, pragmatic, and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, JavaScript and Python in 12 weeks. I was drawn to the tech industry after working in a series of diverse positions through my twenties, trying to find what stimulated me. Seeking equal parts creativity and logical problem solving, I found these in abundance in coding and software development. I am currently learning React in furtherance of my studies at Makers![image](https://user-images.githubusercontent.com/100138662/183714977-f96fbbad-8d18-4363-b687-01965a9e53ea.png)
+
 
 ## Projects
 
@@ -12,36 +13,41 @@ An enthusiastic, pragmatic and creative software engineer with a keen eye for de
 
 ## Work Experience
 
-**Freelance** (June 2021 - July 2022)  
-_Set Design Assistant_
+**Production and Set Design Assistant** (October 2016 - present)  
+_Freelance_
 
 - Sourcing props for fashion shoots and editorials and assembling sets on location and in various photography studios around London.
-- Requires strict attention to detail - backdrops and flooring must be constructed to the highest standard and props must be sourced with care. so as not to negatively affect the final product.
+- Requires strict attention to detail - backdrops and flooring must be constructed to the highest standard and props must be sourced with care, so as not to negatively affect the final product.
 - Liaising with multiple organs of fashion production - photographers, wardrobe, producers, directors etc. in order to play my part in the smooth running of projects running on a strict time schedule.
 - Flexibility required at all times. The needs of a shoot can turn on a dime and time constraints often require quick thinking to overcome problems as they arise.
 
-**British Red Cross** (December 2020 - June 2021)  
-_Service Support Worker_
+**Service Support Worker** (December 2020 - June 2021)  
+_British Red Cross_
 
 - As part of a small team I made up part of the British Red Cross' winter COVID initiative, responsible for assisting hospital discharge of some of London's most vulnerable and isolated.
 - I undertook hospital and home visits to ensure that a service user's property was fit for them to be discharged into. This meant ensuring proper heating, electricity and cleanliness. If my team and I deemed the property to be hazardous, we would defer to various council services and charities to help us remedy any issues.
 - Required a high degree of resilience. Working conditions could be difficult and upsetting, but our emphasis on placing our service user's needs first meant I learnt to steel myself against traumatic situations and focus on delivering a vital service to those that needed it.
 
-**DHL** (June 2020 - December 2020)
-_Delivery Driver_
+**Delivery Driver** (June 2020 - December 2020)
+_DHL_
 
 - During lockdown I worked delivering parcels across the south west of England
 - This role was highly autonomous, and involved long working hours. I had to solve any issues that arose myself, and stay focused as I covered long distances often into the evening.
 
-**London Review of Books** (October 2017 - January 2020)
-_Facilities Co-ordinator_
-
-- In this position I worked to ensure that all departments of the company were running smoothly and were provided for. The job required a high degree of adaptability and versatility as I was expected to respond to any issues that the magazine’s employees required assistance with. 
-- My responsibilities included a wide range of administrative tasks, liaising with outsourced IT technicians to troubleshoot, upgrade and maintain the company’s systems and hardware, managing building maintenance issues and overseeing supply levels, in the main office and the associated booksellers The London Review Bookshop. 
-- I helped to update and maintain a vast asset database and undertake general data entry. The position gave me a good working knowledge of all types of modern office technology such as computers, printers, phones and AV equipment. 
+**Facilities Co-ordinator** (October 2017 - January 2020)
+_London Review of Books_
+Facilities Co-ordinator, London Review of Books: October 2017 – January 2020
+•	Used effective time management to meet project deadlines whilst solving problems raised by colleagues on an ad-hoc basis.
+•	Maintained excellent standards of organisation updating and maintaining a vast asset database covering the entire company site, and utilised a keen eye for detail.
+•	Employed clear and constant communication skills, written and verbal, to keep all departments abreast of developments during works and refurbishments so work could continue unabated, and navigate difficult interdepartmental disagreements arising from frequent circumstantial changes.
+![image](https://user-images.githubusercontent.com/100138662/183745218-654f6865-b287-4dfc-a11f-d5efbef969db.png)
 
 
 ## Skills
+
+#### Keen eye for detail
+
+
 
 #### Clear communicator
 
