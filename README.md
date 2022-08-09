@@ -1,4 +1,4 @@
-## George Dainton
+# George Dainton
 
 An enthusiastic, pragmatic, and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, JavaScript and Python in 12 weeks. I was drawn to the tech industry after working in a series of diverse positions through my twenties, trying to find what stimulated me. Seeking equal parts creativity and logical problem solving, I found these in abundance in coding and software development. I am currently learning React in furtherance of my studies at Makers.
 
@@ -41,8 +41,8 @@ _London Review of Books_
 #### Keen eye for detail
 
 - At Makers and post graduation one of my strongest coding skills is in debugging. I love to investigate stack traces for clues as to what might be wrong with the code, and I pride myself on being able to spot small syntactic errors.
-- Whiislt working at _The London Review of Books_ I oversaw a sizeable asset database, recording every item in the office from servers and air conditioning units to cables and stationery. This required paying close attention to warranty information and serial numbers, and had to be recorded and presented in a detiled yet user friendly way for other consulting the database.
-- As a set design assistant I construct backdrops and flooring for high budget fashion editiorials. These have to be flawless and smooth to prevent any adverse effects on film.
+- At _The London Review of Books_ I oversaw a sizeable asset database, recording every item in the office from servers and air conditioning units to cables and stationery. This required paying close attention to warranty information and serial numbers, and had to be recorded and presented in a detailed yet user friendly way for other consulting the database.
+- As a set design assistant I construct backdrops and flooring for high budget fashion editorials and runway shows. These have to be flawless and smooth to prevent any undesired effects on film.
 
 #### Clear communicator
 
