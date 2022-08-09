@@ -16,38 +16,33 @@ An enthusiastic, pragmatic, and creative software engineer with a keen eye for d
 **Production and Set Design Assistant** (October 2016 - present)  
 _Freelance_
 
-- Sourcing props for fashion shoots and editorials and assembling sets on location and in various photography studios around London.
+- Exhibit constant flexibility and pragmatism in response to the ever changing requirements of shoots and productions.
 - Requires strict attention to detail - backdrops and flooring must be constructed to the highest standard and props must be sourced with care, so as not to negatively affect the final product.
-- Liaising with multiple organs of fashion production - photographers, wardrobe, producers, directors etc. in order to play my part in the smooth running of projects running on a strict time schedule.
-- Flexibility required at all times. The needs of a shoot can turn on a dime and time constraints often require quick thinking to overcome problems as they arise.
+- Resourcefully acquire props and equipment at short notice and under strict time constraints, sometimes diligently transporting them significant distances.
+- I have honed a strong work ethic, often working long hours and maintaining a willing and enthusiastic attitude.
+
 
 **Service Support Worker** (December 2020 - June 2021)  
 _British Red Cross_
 
-- As part of a small team I made up part of the British Red Cross' winter COVID initiative, responsible for assisting hospital discharge of some of London's most vulnerable and isolated.
-- I undertook hospital and home visits to ensure that a service user's property was fit for them to be discharged into. This meant ensuring proper heating, electricity and cleanliness. If my team and I deemed the property to be hazardous, we would defer to various council services and charities to help us remedy any issues.
-- Required a high degree of resilience. Working conditions could be difficult and upsetting, but our emphasis on placing our service user's needs first meant I learnt to steel myself against traumatic situations and focus on delivering a vital service to those that needed it.
-
-**Delivery Driver** (June 2020 - December 2020)
-_DHL_
-
-- During lockdown I worked delivering parcels across the south west of England
-- This role was highly autonomous, and involved long working hours. I had to solve any issues that arose myself, and stay focused as I covered long distances often into the evening.
+As part of a small team I made up part of the British Red Cross' winter COVID initiative, responsible for assisting hospital discharge of some of London's most vulnerable and isolated.
+- I learned to be highly resilient to traumatic situations, making reports concerning the liveability of homes and deciding whether council assistance was needed to improve the situation.
+- Highly adaptable in response to volatile service users and difficult bureaucratic obstacles, having to frequently alter assistance plans to deliver our service as best as possible.
 
 **Facilities Co-ordinator** (October 2017 - January 2020)
 _London Review of Books_
-Facilities Co-ordinator, London Review of Books: October 2017 – January 2020
-•	Used effective time management to meet project deadlines whilst solving problems raised by colleagues on an ad-hoc basis.
-•	Maintained excellent standards of organisation updating and maintaining a vast asset database covering the entire company site, and utilised a keen eye for detail.
-•	Employed clear and constant communication skills, written and verbal, to keep all departments abreast of developments during works and refurbishments so work could continue unabated, and navigate difficult interdepartmental disagreements arising from frequent circumstantial changes.
-![image](https://user-images.githubusercontent.com/100138662/183745218-654f6865-b287-4dfc-a11f-d5efbef969db.png)
 
+- Used effective time management to meet project deadlines whilst solving problems raised by colleagues on an ad-hoc basis.
+- Maintained excellent standards of organisation updating and maintaining a vast asset database covering the entire company site, and utilised a keen eye for detail.
+- Employed clear and constant communication skills, written and verbal, to keep all departments abreast of developments during works and refurbishments so work could continue unabated, and navigate difficult interdepartmental disagreements arising from frequent circumstantial changes.
 
 ## Skills
 
 #### Keen eye for detail
 
-
+- At Makers and post graduation one of my strongest coding skills is in debugging. I love to investigate stack traces for clues as to what might be wrong with the code, and I pride myself on being able to spot small syntactic errors.
+- Whiislt working at _The London Review of Books_ I oversaw a sizeable asset database, recording every item in the office from servers and air conditioning units to cables and stationery. This required paying close attention to warranty information and serial numbers, and had to be recorded and presented in a detiled yet user friendly way for other consulting the database.
+- As a set design assistant I construct backdrops and flooring for high budget fashion editiorials. These have to be flawless and smooth to prevent any adverse effects on film.
 
 #### Clear communicator
 
