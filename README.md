@@ -1,6 +1,6 @@
 ## George Dainton
 
-An enthusiastic, pragmatic, and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, JavaScript and Python in 12 weeks. I was drawn to the tech industry after working in a series of diverse positions through my twenties, trying to find what stimulated me. Seeking equal parts creativity and logical problem solving, I found these in abundance in coding and software development. I am currently learning React in furtherance of my studies at Makers![image](https://user-images.githubusercontent.com/100138662/183714977-f96fbbad-8d18-4363-b687-01965a9e53ea.png)
+An enthusiastic, pragmatic, and creative software engineer with a keen eye for detail and a boundless desire to learn. Graduate of Makers Academy April 2022 cohort, where I learnt to code in Ruby, JavaScript and Python in 12 weeks. I was drawn to the tech industry after working in a series of diverse positions through my twenties, trying to find what stimulated me. Seeking equal parts creativity and logical problem solving, I found these in abundance in coding and software development. I am currently learning React in furtherance of my studies at Makers.
 
 
 ## Projects
