@@ -7,9 +7,9 @@ An enthusiastic, pragmatic, and creative software engineer with a keen eye for d
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Trybe           | A custom goal tracker and support network mobile application  | React Native (Frontend), Django REST Framework (Backend), Heroku, Git |
-| MakeBook | Constable Mongoose's Facebook Clone | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Heroku, Git             |
-| Chuckle Hotel | An Airbnb clone | Ruby, RSpec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Git
+| [Trybe](https://github.com/LGretzk/trybe-backend)           | A custom goal tracker and support network mobile application  | React Native (Frontend), Django REST Framework (Backend), Heroku, Git |
+| [MakeBook](https://github.com/AKCDNG/acebook-MakeBook) | Constable Mongoose's Facebook Clone | JavaScript, Node.js, Express, Handlebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress, Heroku, Git             |
+| [Chuckle Hotel](https://github.com/sjtinsley/chuckle_brothers_bnb) | An Airbnb clone | Ruby, RSpec, IRB, Sinatra, Capybara, CSS3, HTML5, PostgreSQL, Git
 
 ## Work Experience
 
